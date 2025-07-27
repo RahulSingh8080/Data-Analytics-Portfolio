@@ -55,7 +55,7 @@ This portfolio contains **end-to-end data projects** reflecting real-world busin
 
 I'm always open to opportunities, collaborations, and meaningful discussions.
 
-📧 Email: rahulsingh8080@gmail.com  
+📧 Email: thakurrahulsinghjdm123@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-singh-583a3619b/)
 
 ---
