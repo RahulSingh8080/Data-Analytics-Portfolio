@@ -1,7 +1,7 @@
 # 📊 A/B Testing Project
 
 **Author**: Rahul Singh  
-**Dataset**: [ab_data.csv from Kaggle]
+**Dataset**: [AB_dataset.csv from Kaggle]
 **Language**: Python
 
 ---
